@@ -1,3 +1,5 @@
+
+/*Primera página */
 .navbar{
     /*position: relative;*/
     background: #2a252d;
@@ -6,43 +8,48 @@
     padding-right: 80px;
     border-radius: 0px;
     }
-    .damn a{
+
+.damn a{
         color: #d3e9f3;
         font-family: 'beauty';
         font-size: 32px;  
     }
-    .damn2 a{
+
+.damn2 a{
         color: #ed6a5a;    
     }
-    .damn3 a{
+
+.damn3 a{
         color: #ed6a5a;   
     }
-    .damn4 a{
+
+.damn4 a{
         color: #fcffeb;   
     }
-    body{
+
+body{
         background-color: #fcffeb;
     }
-    #contenedorlogo {
+
+#contenedorlogo {
         background:   #fcffeb;
        /* position: absolute; */
-      
-    
-    
     }
-    #logo{ 
+
+#logo{ 
        padding-left: 0px;
        padding-right:0px;
        padding-top: 14px;
        width: 180px;
        height: 155px;
        background:#fcffeb;
-       margin-top: -700px;
+       margin-top: -152px;
        /*margin-left: 50%;*/
        box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
        border:1px solid #5b2333;
     }
-    #marco{
+
+#marco{
         
         border:1.4px solid #d3e9f3;
         /*position: relative;*/
@@ -56,38 +63,36 @@
        
      
     }
-    .icon-bar{
+.icon-bar{
         background-color:#ed6a5a;  
     }
 
-
-
-    #izquierda{
+#izquierda{
         padding-left: 80px;
         
     
     }
-    #derecha{
+#derecha{
         padding-right: 80px;
   
     }
-    @font-face {
+@font-face {
         font-family: 'tall';
         src: url("../Fonts/TallFilmsExpanded.ttf");
     }
-    @font-face {
+@font-face {
         font-family: 'beauty';
         src: url("Fonts/BeautyDemo.ttf");
         
     }
-    #tercero{
-    background-color: #d3e9f3;
+#tercero{
+         background-color: #d3e9f3;
        /*position: relative;*/
        margin-top: 28px;
       width: 900px;
        height: 496px;
     }
-    #subtercero{
+#subtercero{
         border:1pt solid #fcffeb;
         background-color: #d3e9f3;
        /*position: relative;*/
@@ -99,7 +104,7 @@
        
     
     }
-    #subsubtercero{
+#subsubtercero{
         
         background-color:  #fcffeb;
       /*position: relative;*/
@@ -110,16 +115,19 @@
        height: 391px;
     
     }
-    #myCarousel{
+#myCarousel{
      margin-top: 85px;
      border: 6px solid #fcffeb;
      width: 100%;
      padding: 0px;
     }
-
+.carouseltotal{
+    margin-top: -66px;
+    padding-bottom: 44px;
+}    
     
-    #franja{
-        margin-top: -504px;
+#franja{
+        margin-top: 25px;
      
      color: #fcffeb;
         background-color: #ed6a5a;
@@ -132,111 +140,95 @@
         height: 44px;
         
     }
-    .vl {
+.vl {
         border-left: 1px solid #c9c0c1;
-        height: 475px;
-        margin-top: -500px;
+        height: 433px;
+        margin-top: -477px;
         margin-left: 150px;
         position: absolute;
     }
-    .v2 {
+.v2 {
+        border-left: 1px solid #c9c0c1;
+        height: 433px;
+        margin-top: -477px;
+        margin-left: 1200px;
+      position: absolute;
+    }
+.v3 {
         border-left: 1px solid #c9c0c1;
         height: 475px;
-        margin-top: -500px;
+        margin-top: 60px;
+        margin-left: 150px;
+      position: absolute;
+    }
+.v4 {
+        border-left: 1px solid #c9c0c1;
+        height: 475px;
+        margin-top: 50px;
         margin-left: 1200px;
       position: absolute;
     }
 
-    .primero{
+.primero{
         background-color: #d3e9f3;
         margin-top: 18px;
         box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #fcffeb; 
-        height: 530px;
+       
        
     }
-    .segundo{
+.segundo{
         background-color: #d3e9f3;
         border:1pt solid #fcffeb;
         padding: 0px;
         margin-top: 10px;
     }
-    @media (max-width: 782px) { 
-#izquierda{
-    padding-left: 0px;
-    margin-top: 50px;
-    margin-left: 2px;
-}
-#derecha{
-    margin-top: 0px;
-    margin-left: 2px;
-    padding-bottom: 10px;
-}
-.linea{
-    margin-top: 0px;
-   background-color:  #d3e9f3;
-}
-    }
-
-    @media (min-width: 768px){
-        #myCarousel{
-            
-           
-      
-        }
-        
-    }
-
-@media (max-width: 767px) { 
-    #logo{
-         width: 144px;
-         height: 132.38px;
-margin-left: 30%;
-    }
-
- }
-
- @media (min-width:768px) and (max-width: 992px){
-
-    #logo{
-        width: 158px;
-        height: 145.25px;
-
-   }
-   #franja{
-    height: 40px;
-    font-size: 41px;
-   }
- }
+  
 
  .tendencias{
     background-color: #ed6a5a;
-    margin-top: 40px;
+    margin-top: 10px;
     box-shadow: inset 0 0 0 15px  #ed6a5a, inset 0 0 0 16px #fcffeb;
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 35px;
     font-family: 'beauty';
     color: #fcffeb;
-    margin-left: 8.3%;
-    height: 268,592px;
     
+   
  }
  
  .clasificados{
     background-color:#d3e9f3 ;
-    margin-top: 40px;
+    margin-top: 10px;
     box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #fcffeb;
-    text-align: center;
+   
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'beauty';
     color:  #5b2333;
-    margin-left: 16.6%;
+   padding-left: 70px;
+   padding-right: 70px;
+   
+
     
  }
-
-.cosadelmedio{
+.clasificados > h1{ 
+    text-align: center;
    
+}
+.profesionales h2{
+    color: #2A252D;
+    font-size: 24.38px;
+    text-align: center;
+    font-weight: bold;
+}
+.profesionales p{
+    color:  #5b2333;
+    font-size: 19.64px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font-weight: bold;
+    
 }
 .tendenciasfoto{
     width: 199,649px;
@@ -244,7 +236,12 @@ margin-left: 30%;
     margin-top: 5px;
 
 }
-
+.horizontal{
+    height: 6px solid #c9c0c1;
+    width: 600px;
+    margin: auto;
+    margin-top: 25px 
+}
 
 .subrayado1{
         width: 6em;
@@ -262,16 +259,308 @@ margin-left: 30%;
 
 
 }
+
+.subrayado3{
+    width: 9em;
+    height: 3px;
+    margin: auto;
+    margin-top: -25px;
+}
 .losmaselegidos{
     background-color: #ed6a5a;
-    margin-top: 0px;
+    margin-top: 20px;
     box-shadow: inset 0 0 0 15px  #ed6a5a, inset 0 0 0 16px #fcffeb;
     text-align: center;
-    
-    padding-bottom: 20px;
+   
+    padding-bottom: 40px;
     font-family: 'beauty';
     color: #fcffeb;
-  margin-top: 400px;
+    padding-top: 10px;
     height: 268,592px;
 
+}
+
+.segundaseccion{
+    margin-top: 2px;
+}
+.profesionales {
+    font-family: 'tall';
+
+}
+.primeralinea hr{
+    background-color:#c9c0c1;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.segundalinea hr{
+    background-color:#c9c0c1;
+}
+.boton{
+    background-color:  #5B2333;
+    font-family: 'beauty';
+    font-size: 20pt;
+    color: #fcffeb;
+    margin:0 auto;
+    display:block;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    align-items: center; 
+    
+}
+.pie{
+    margin-top: 125px;
+    background-color: #9FA093;
+   padding-top: 25px;
+   padding-bottom: 25px;
+}
+.izq h5{
+    font-family: 'beauty'; 
+    color: #fcffeb;
+    font-size: 35pt;
+   
+   
+}
+.izq h6{
+    font-family: 'tall'; 
+    color: #2A252D;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.izq p{
+    font-family: 'tall'; 
+    color: #fcffeb;
+    font-size: 19pt;
+   
+}
+.dere h5{
+    font-family: 'beauty'; 
+    color: #fcffeb;
+    font-size: 35pt;
+}
+.dere h6{
+    font-family: 'tall'; 
+    color: #2A252D;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.dere p{
+    font-family: 'tall'; 
+    color: #fcffeb;
+    font-size: 19pt;
+   
+}
+.izq abajo{
+
+}
+.copy{
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 17pt;
+    font-family: 'tall'; 
+    color: #fcffeb;
+    background-color: #2A252D;
+}
+.v6{
+    width:1px ;
+    background-color: #c9c0c1;
+    margin-left: -10%;
+    height: 400px;
+    display: block;
+    padding: 0px;
+   
+}
+.izq{
+    padding: 0px;
+}
+.dere{
+    padding: 0px;
+    /*margin-left: -1%*/
+}
+.izq h6 {
+margin-left: -22px;
+}
+.izq h5 {
+    margin-left: 11px;
+}
+.dere h6 {
+     margin-left: -22px;
+}
+.dere h5 {
+     margin-left: 11px;
+}
+.abajo{
+    margin-top: 64px;
+}
+.abajo2{
+    margin-top: 4px;
+}
+.logofooter{
+    margin-top: 133px;
+   
+}
+
+@media (max-width: 782px) { 
+
+    #izquierda{
+        padding-left: 0px;
+        margin-top: 50px;
+        margin-left: 2px;
+    }
+    #derecha{
+        margin-top: 0px;
+        margin-left: 2px;
+        padding-bottom: 10px;
+    }
+    .linea{
+        margin-top: 0px;
+        background-color:  #d3e9f3;
+    }
+        }
+    
+
+    
+@media (max-width: 767px) { 
+        
+    #logo{
+        width: 144px;
+        height: 132.38px;
+        margin-left: 30%;
+        }
+    
+     }
+    
+@media (min-width:768px) and (max-width: 992px){
+    
+    #logo{
+         width: 158px;
+         height: 145.25px;
+    
+       }
+    #franja{
+         height: 40px;
+         font-size: 41px;
+       }
+     }
+
+@media (min-width:1200px){
+
+    .clasificados{
+        width: 8‎0‎0px;
+        margin-left: 8.3%;
+        }
+
+    .tendencias{
+        width: 80‎0px;
+        margin-left: -25%;
+        }
+
+    .losmaselegidos{
+        width: 80‎0px;
+        margin-left: -25%;
+        }
+
+    #marco{
+        width: 1050px;
+        }
+    
+}
+
+@media (max-width: 988px) {
+    .izq{
+  padding-top: 11px;
+     margin-left: 88px;
+     padding-right: 22px;
+    
+    }
+
+   
+     
+}
+@media (max-width: 988px) {
+    .dere {
+        margin-left: 88px;
+        padding-top: 33px;
+     
+    }
+ 
+}
+
+
+.menuderecha li a{
+   
+    font-family: 'tall'; 
+    color: #d3e9f3;
+    align-self: auto;
+    padding-top: 11px;
+    padding-bottom: 11px;
+  
+}
+.menuderecha{
+    background-color: #2a252d;
+}
+.botoncito {
+  background-color:#2a252d;
+
+  margin-top: 11px;
+  margin-left: px;
+}
+
+
+/*  Segunda página */
+
+.filtro{
+    background-color: #ed6a5a;
+    color: #fcffeb;
+    font-family: 'tall'; 
+    font-size:  pt;
+    margin-top: 44px;
+    margin-left: px;
+    padding-left: 17px;
+    padding-top: px;
+    height: 44px;
+
+}
+.buscar{
+    font-family: 'tall'; 
+    background-color: #fcffeb;
+    color:#C9C0C1;
+    font-size:  pt;
+    margin-top: 44px;
+    margin-right: px;
+  
+    padding-top: px;
+    height: 44px;
+    
+    
+
+
+}
+
+.buscar h3{
+    margin-top: 10px;
+  
+}
+.filtro h3{
+    margin-top: 10px; 
+    margin-left: -14px;
+}
+
+.pagination li a{
+    background-color:none;
+    margin-top: 11px;
+    color: #5B2333;
+}
+.pagina{
+    margin-top: 36px;
+   padding-right: 0px;
+   padding-left: 0px;
+   text-align: right;
+   color: #ed6a5a;
+    
+}
+.flechita{
+    margin-top: 17px;
 }
