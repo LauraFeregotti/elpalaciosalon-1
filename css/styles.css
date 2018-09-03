@@ -487,6 +487,13 @@ margin-left: -22px;
     }
  
 }
+@media (max-width: 1366px) {
+    v1,v2,v3,v4{
+      
+        visibility:hidden;
+    }
+ 
+}
 
 
 .menuderecha li a{
@@ -519,9 +526,15 @@ margin-left: -22px;
     margin-top: 44px;
     margin-left: px;
     padding-left: 17px;
-    padding-top: px;
+    padding-top: 20px;
     height: 44px;
+  
 
+}
+.btn{
+    padding-top: 0px;
+    border-radius: 0px;
+    
 }
 .buscar{
     font-family: 'tall'; 
@@ -529,7 +542,7 @@ margin-left: -22px;
     color:#C9C0C1;
     font-size:  pt;
     margin-top: 44px;
-    margin-right: px;
+    margin-right: 20px;
   
     padding-top: px;
     height: 44px;
@@ -552,6 +565,8 @@ margin-left: -22px;
     background-color:none;
     margin-top: 11px;
     color: #5B2333;
+    font-family: 'tall';
+    font-size: 18pt;
 }
 .pagina{
     margin-top: 36px;
@@ -559,8 +574,89 @@ margin-left: -22px;
    padding-left: 0px;
    text-align: right;
    color: #ed6a5a;
+   font-family: 'tall';
+   font-size: 18pt;
     
 }
 .flechita{
     margin-top: 17px;
 }
+.contenedorgris{
+    background: #C9C0C1;
+    margin-left: 65.25px;
+    margin-bottom: 10px;
+
+  
+
+}
+.contenedorgris2{
+    background: #C9C0C1;
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+ 
+}
+.prod{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.marcoproducto{
+    background: #2A252D;
+    color: #FCFFEB;
+    height: 60px;
+    margin-top: -70px;
+    font-family: 'tall'; 
+    font-size: 20pt;
+    text-align: center;
+    padding-top: 10px;
+}
+.precio{
+    color: #ED6A5A;
+
+}
+
+.flecha{
+    width: 17.369px;
+    height: 15.481px;
+}
+.dropdown-menu{
+    text-align: center;
+    padding-top: 10px;
+    color: #5B2333;
+    font-family: 'tall';
+    font-size: 20pt;
+}
+
+.line{
+    margin: center;
+    width: 40px;
+    padding-top: 5px;
+}
+.conjunto{
+    padding-bottom: 25px;
+}
+.pagina2{
+    margin-top: 36px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: right;
+    color: #ed6a5a;
+    font-family: 'tall';
+    font-size: 18pt;
+    padding-bottom: 60px;
+}
+.v5 {
+    border-left: 1px solid #c9c0c1;
+    height: 1350px;
+    margin-top: 60px;
+    margin-left: 150px;
+  position: absolute;
+}
+.v6 {
+    border-left: 1px solid #c9c0c1;
+    height: 1350px;
+    margin-top: 50px;
+    margin-left: 1200px;
+  position: absolute;
+}
+
