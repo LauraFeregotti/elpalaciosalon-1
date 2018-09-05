@@ -32,20 +32,26 @@
           <li class="visible-lg"><a href="#">contacto</a></li>
           
           <div class="btn-group botoncito">
-            <button type="button" class=" btn btn-default dropdown-toggle rayas" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <ul class="dropdown-menu menuderecha">
-              <li><a  href="#">Novedades y promociones</a></li>
-              <li><a  href="#">Clasificados</a></li>
-              <li><a  href="#">Media</a></li>
-              <li><a  href="#">Albums</a></li>
-              <li><a  href="#">Empresa</a></li>
+              <button type="button" class=" btn btn-default dropdown-toggle rayas" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <div>
+                    <img class="img-responsive center-block"src="images/icons/hamburger.png" >
+                </div>
              
-            </ul>
-          </div>
+                
+              </button>
+              <ul class="dropdown-menu menuderecha">
+                <li><a  href="#">Novedades y promociones</a></li>
+                <div class="visible-lg line3"><hr/></div>
+                <li><a  href="#">Clasificados</a></li>
+                <div class="visible-lg line3"><hr/></div>
+                <li><a  href="#">Media</a></li>
+                <div class="visible-lg line3"><hr/></div>
+                <li><a  href="#">Albums</a></li>
+                <div class="visible-lg line3"><hr/></div>
+                <li><a  href="#">Empresa</a></li>
+               
+              </ul>
+            </div>
         </div>
       </div>
       
@@ -62,10 +68,22 @@
         <div class="collapse navbar-collapse" id="navCollapse">
           <ul class="nav navbar-nav damn2 " id="izquierda">
             <div class="visible-xs linea"><hr/></div>
-              <li><a href="#">Productos</a></li>
+              <li><a href="productos.html">Productos</a></li>
               <div class="visible-xs linea"><hr/></div>
-              <li><a href="#">Servicios</a></li>
-              <div class="visible-xs linea"><hr/></div>
+              <li class="dropdown2">
+                  <button class="btn btn-default btn-lg dropdown-toggle " type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                      <li><a href="#">Servicios</a></li>
+                      <div class="visible-xs linea"><hr/></div>
+              
+                  </button>
+                  <ul class="dropdown-menu segundo2" aria-labelledby="dropdownMenu1">
+                    <li><a href="#">Belleza</a></li>
+                    <div class="visible-lg line4"><hr/></div>
+                    <li><a href="#">Peluquería</a></li>
+                  </ul>
+                </li>
+
+            
             </ul>
              <ul class="nav navbar-nav navbar-right damn3  " id="derecha" >
               <li><a href="#">Academia</a></li>

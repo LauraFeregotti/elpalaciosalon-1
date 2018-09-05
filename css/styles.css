@@ -8,6 +8,13 @@
     padding-right: 80px;
     border-radius: 0px;
     }
+.line3{
+    
+    color: #C9C0C1;
+    margin-left: 10%;
+    width: 80%;
+   
+}
 
 .damn a{
         color: #d3e9f3;
@@ -63,6 +70,44 @@ body{
        
      
     }
+
+#dropdownMenu1{
+    font-size: 38px;
+    border: none;
+    width: 100px;
+    background: #FCFFEB;
+
+    }
+.segundo2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5B2333;
+    font-family: 'tall';
+    font-size: 20pt;
+    font-weight:bold;
+    background: #FCFFEB;
+   
+    border-radius: 0px;
+    
+    box-shadow: 0px 1px 29px -3px rgba(0,0,0,0.36);
+
+}  
+.line4{
+   width: 70%; 
+   margin-left: 15%;
+   margin-top: -20px;
+   margin-bottom: -15px;
+  
+}
+
+.rayas{
+    background: #2A252D;
+    border: none; 
+    margin-top: 1px;
+    padding-left: 20%;
+    
+}
 .icon-bar{
         background-color:#ed6a5a;  
     }
@@ -501,12 +546,14 @@ margin-left: -22px;
     font-family: 'tall'; 
     color: #d3e9f3;
     align-self: auto;
-    padding-top: 11px;
-    padding-bottom: 11px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 20pt;
   
 }
 .menuderecha{
     background-color: #2a252d;
+  
 }
 .botoncito {
   background-color:#2a252d;
@@ -522,30 +569,33 @@ margin-left: -22px;
     background-color: #ed6a5a;
     color: #fcffeb;
     font-family: 'tall'; 
-    font-size:  pt;
+    font-size: 50pt;
     margin-top: 44px;
     margin-left: px;
-    padding-left: 17px;
-    padding-top: 20px;
-    height: 44px;
+    padding-left: 20px;
+    padding-top: -100px;
+    height: 60px;
   
 
 }
+
 .btn{
     padding-top: 0px;
     border-radius: 0px;
+    width: 70%;
+    
     
 }
 .buscar{
     font-family: 'tall'; 
     background-color: #fcffeb;
     color:#C9C0C1;
-    font-size:  pt;
+    font-size: 20pt;
     margin-top: 44px;
     margin-right: 20px;
   
     padding-top: px;
-    height: 44px;
+    height: 46px;
     
     
 
@@ -554,11 +604,13 @@ margin-left: -22px;
 
 .buscar h3{
     margin-top: 10px;
+    font-size: 20pt;
   
 }
 .filtro h3{
-    margin-top: 10px; 
-    margin-left: -14px;
+    margin-top: 17px; 
+    margin-left: -20px;
+    font-size: 20pt;
 }
 
 .pagination li a{
@@ -579,7 +631,8 @@ margin-left: -22px;
     
 }
 .flechita{
-    margin-top: 17px;
+    margin-top: 23px;
+  
 }
 .contenedorgris{
     background: #C9C0C1;
@@ -619,18 +672,32 @@ margin-left: -22px;
     width: 17.369px;
     height: 15.481px;
 }
-.dropdown-menu{
+.segundo{
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 10px;
     color: #5B2333;
     font-family: 'tall';
     font-size: 20pt;
+    font-weight:bold;
+    background: #FCFFEB;
+    width: 70%;
+    border-radius: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 29px -3px rgba(0,0,0,0.36);
+ 
+}
+.segundo li a{
+    color: #5B2333;
 }
 
 .line{
-    margin: center;
-    width: 40px;
-    padding-top: 5px;
+    
+    width: 150px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    margin-left: 15%;
+    color: #C9C0C1;
 }
 .conjunto{
     padding-bottom: 25px;
@@ -659,4 +726,13 @@ margin-left: -22px;
     margin-left: 1200px;
   position: absolute;
 }
-
+.search{
+    margin-top: 13px;
+    width: 100px;
+    height: 100px;
+}
+.barra{
+  height:20px;
+  margin-left: 40px;
+  margin-top: 1px;
+}
