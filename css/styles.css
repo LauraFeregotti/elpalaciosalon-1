@@ -712,16 +712,15 @@ margin-left: -22px;
 .v5 {
     border-left: 1px solid #c9c0c1;
     height: 1350px;
-    margin-top: 60px;
-    margin-left: 150px;
-  position: absolute;
+    margin-top: 65px;
+    margin-left: 45px;
+    
 }
 .v6 {
     border-left: 1px solid #c9c0c1;
     height: 1350px;
-    margin-top: 50px;
-    margin-left: 1200px;
-  position: absolute;
+    margin-top: 65px;
+    margin-left: 19px;
 }
 .search{
     margin-top: 13px;
