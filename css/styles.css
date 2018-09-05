@@ -192,30 +192,28 @@ body{
 .vl {
         border-left: 1px solid #c9c0c1;
         height: 433px;
-        margin-top: -477px;
-        margin-left: 150px;
-        position: absolute;
+        margin-top: 65px;
+        margin-left: 45px;
+        
     }
 .v2 {
         border-left: 1px solid #c9c0c1;
         height: 433px;
-        margin-top: -477px;
-        margin-left: 1200px;
-      position: absolute;
+        margin-top: 65px;
+        margin-left: 20px;
+      
     }
 .v3 {
-        border-left: 1px solid #c9c0c1;
-        height: 475px;
-        margin-top: 60px;
-        margin-left: 150px;
-      position: absolute;
+    border-left: 1px solid #c9c0c1;
+    height: 433px;
+    margin-top: 65px;
+    margin-left: 45px;
     }
 .v4 {
-        border-left: 1px solid #c9c0c1;
-        height: 475px;
-        margin-top: 50px;
-        margin-left: 1200px;
-      position: absolute;
+    border-left: 1px solid #c9c0c1;
+    height: 433px;
+    margin-top: 65px;
+    margin-left: 20px;
     }
 
 .primero{
