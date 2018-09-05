@@ -127,11 +127,11 @@ body{
     }
 @font-face {
         font-family: 'tall';
-        src: url("../Fonts/TallFilmsExpanded.ttf");
+        src: url("../fonts/TallFilmsExpanded.ttf");
     }
 @font-face {
         font-family: 'beauty';
-        src: url("Fonts/BeautyDemo.ttf");
+        src: url("../fonts/BeautyDemo.ttf");
         
     }
 #tercero{
