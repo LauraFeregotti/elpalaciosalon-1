@@ -455,14 +455,58 @@ margin-left: -22px;
         margin-left: 2px;
     }
     #derecha{
-        margin-top: 0px;
+        margin-top: 20px;
         margin-left: 2px;
+        padding-top: 25px;
         padding-bottom: 10px;
     }
-    .linea{
-        margin-top: 0px;
+    .linea1{
+        margin-top: 5px;
         background-color:  #d3e9f3;
+        width: 400px;
     }
+    .linea2{
+        margin-top: 5px;
+        background-color:  #d3e9f3;
+        width: 400px;
+     
+    }
+    .linea3{
+        margin-top: 5px;
+        background-color:  #d3e9f3;
+        width: 400px;
+       margin-left: -16px;
+    }
+    .linea4{
+        margin-top: 5px;
+        background-color:  #d3e9f3;
+        width: 400px;
+    }
+    #logo{ 
+      
+        margin-top: -156px;
+       
+     }
+    .segundo2{
+        text-align: left;
+        padding-top: 30px;
+        padding-bottom: 0px;
+        color: #5B2333;
+        font-family: 'tall';
+        font-size: 20pt;
+        font-weight:bold;
+        background: #FCFFEB;
+        margin-left: 10px;
+        height: 75px;
+       
+        
+        
+      
+    } 
+    .segundo2 :first-child{
+        margin-bottom: 10px;
+    }
+   
         }
     
 
