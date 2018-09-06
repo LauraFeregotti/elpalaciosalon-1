@@ -108,10 +108,18 @@ body{
 .rayas{
     background: #2A252D;
     border: none; 
-    margin-top: 1px;
-    padding-left: 20%;
+
+    color:  #d3e9f3;
+    font-family: 'beauty';
+    width: 300px;
     
 }
+
+.mas{
+    padding: 10px;
+    
+    }
+
 .icon-bar{
         background-color:#ed6a5a;  
     }
@@ -471,7 +479,36 @@ margin-left: -22px;
     .segundo2 :first-child{
         margin-bottom: 10px;
     }
+
+    .mas{
+        width: 100px;
+    }
+    .locales{
+        width: 100px;
+    }
+    .contacto{
+        width: 100px;
+  
+
+    }
+   .damn{
    
+   }
+   .menuderecha{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50px;
+   }
+   .menuderecha li a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+   }
+   .dropdown{
+    
+   }
         }
     
 
@@ -572,6 +609,8 @@ margin-left: -22px;
 }
 
 
+
+
 /*  Segunda página */
 
 .filtro{
@@ -636,10 +675,7 @@ margin-left: -22px;
    font-size: 18pt;
     
 }
-.flechita{
-    margin-top: 23px;
-  
-}
+
 .contenedorgris{
     background: #C9C0C1;
     margin-left: 65.25px;
