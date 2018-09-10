@@ -73,6 +73,12 @@ body{
      
     }
 
+.downarrow{
+    width: 17.369px;
+    height: 15.481px;
+    margin-top: -4px;
+}    
+
 #dropdownMenu1{
     font-size: 38px;
     border: none;
@@ -506,8 +512,9 @@ margin-left: -22px;
     margin-bottom: 10px;
     
    }
-   .dropdown{
-    
+   .downarrow{
+     width: 17.369px;
+    height: 15.481px;
    }
         }
     
@@ -808,3 +815,4 @@ margin-left: -22px;
   margin-left: 40px;
   margin-top: 1px;
 }
+
