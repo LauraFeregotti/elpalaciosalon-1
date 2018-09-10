@@ -620,10 +620,14 @@ margin-left: -22px;
 .damn>li>a:hover {
 background-color: #433B49;
 }
-.damn>dropdown>li>mas:true {
+.damn>li>a:visited {
     background-color: #433B49;
     }
 .nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+    background-color: #433B49;
+
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:active{
     background-color: #433B49;
 
 }
