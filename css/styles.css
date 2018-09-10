@@ -20,6 +20,7 @@
         color: #d3e9f3;
         font-family: 'beauty';
         font-size: 32px;  
+        
     }
 
 .damn2 a{
@@ -614,6 +615,19 @@ margin-left: -22px;
   margin-top: 11px;
   margin-left: px;
 }
+
+    
+.damn>li>a:hover {
+background-color: #433B49;
+}
+.damn>dropdown>li>mas:true {
+    background-color: #433B49;
+    }
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+    background-color: #433B49;
+
+}
+
 
 
 
