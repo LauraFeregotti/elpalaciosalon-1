@@ -713,6 +713,7 @@ margin-left: -22px;
 .flecha{
     width: 17.369px;
     height: 15.481px;
+    margin-top: 25px;
 }
 .segundo{
     text-align: center;
@@ -793,6 +794,8 @@ margin-left: -22px;
     background-color: #c9c0c1;
     height: 400px;
     padding: 0px;
+    margin-top: 65px;
+    margin-left: 20px;
    
 }
 .search{
