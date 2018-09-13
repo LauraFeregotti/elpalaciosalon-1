@@ -464,7 +464,7 @@ margin-left: -22px;
     }
     #logo{ 
       
-        margin-top: -156px;
+       /* margin-top: -156px;*/
        
      }
     .segundo2{
@@ -498,9 +498,7 @@ margin-left: -22px;
   
 
     }
-   .damn{
-   
-   }
+    
    .menuderecha{
     padding-top: 10px;
     padding-bottom: 10px;
@@ -526,8 +524,14 @@ margin-left: -22px;
     #logo{
         width: 144px;
         height: 132.38px;
-        margin-left: 25%;
+        /*margin-left: 25%;*/
         }
+   .contenedorgris{
+    margin-left: 2px;
+   }  
+   .contenedorgris2{
+    margin-left: 2px;
+   }
     
      }
     
@@ -536,14 +540,38 @@ margin-left: -22px;
     #logo{
          width: 158px;
          height: 145.25px;
+        margin-left: 40%;
     
        }
     #franja{
-         height: 40px;
+        height: 40px;
          font-size: 41px;
        }
-     }
-
+    
+     .contenedorgris{
+        margin-left: -100px;
+    }  
+    .contenedorgris2{
+        
+    }
+    #izquierda{
+        margin-left: -85px;
+    }
+    #derecha{
+        margin-right: -85px;
+    }  
+  
+.contenedordeproductos1{
+margin-right: 30px;
+}
+.contenedordeproductos2{
+    margin-right: 30px;
+    }
+.contenedordeproductos3{
+      margin-right: 30px;
+    }
+  
+    }
 @media (min-width:1200px){
 
     .clasificados{
