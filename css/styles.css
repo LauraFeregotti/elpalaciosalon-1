@@ -578,13 +578,21 @@ body {
     }
 
     .contenedorgris {
-        margin-left: -100px;
+        margin-right: 100px;
     }
 
     .contenedorgris2 {
         margin-left: 0px;
     }
 
+    .filtro{
+        padding-left: -100px;
+    }
+    
+    .contenedordeproductos1 {
+        margin-right: 10px;
+    }
+    
 }
 
 @media (min-width:768px) and (max-width: 992px) {
@@ -605,7 +613,7 @@ body {
         margin-left: -100px;
     }
 
-    .contenedorgris2 {}
+    
 
     #izquierda {
         margin-left: -85px;
