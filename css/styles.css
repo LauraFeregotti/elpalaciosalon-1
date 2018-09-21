@@ -484,27 +484,27 @@ padding-bottom: -10px;
     .linea1 {
         margin-top: 5px;
         background-color: #d3e9f3;
-        width: 400px;
+        width: 220px;
     }
 
     .linea2 {
         margin-top: 5px;
         background-color: #d3e9f3;
-        width: 400px;
+        width: 220px;
 
     }
 
     .linea3 {
         margin-top: 5px;
         background-color: #d3e9f3;
-        width: 400px;
+        width: 220px;
         margin-left: -16px;
     }
 
     .linea4 {
         margin-top: 5px;
         background-color: #d3e9f3;
-        width: 400px;
+        width: 220px;
     }
 
     #logo {
@@ -515,7 +515,7 @@ padding-bottom: -10px;
 
     .segundo2 {
         text-align: left;
-        padding-top: 30px;
+        padding-top: 20px;
         padding-bottom: 0px;
         color: #5B2333;
         font-family: 'tall';
@@ -523,7 +523,7 @@ padding-bottom: -10px;
         font-weight: bold;
         background: #FCFFEB;
         margin-left: 10px;
-        height: 75px;
+        height: 130px;
 
 
 
@@ -578,9 +578,7 @@ padding-bottom: -10px;
         /*margin-left: 25%;*/
         translate: (10px,100px);
     }
-    #contenedorlogo2{
-        translate: (10px,100px);
-    }
+    
 
     .contenedorgris {
         margin-right: 100px;
@@ -594,14 +592,42 @@ padding-bottom: -10px;
         padding-left: -100px;
     }
     
-    .contenedordeproductos1 {
-        margin-right: 10px;
-    }
+   
     .dere{
         margin-left: 0px;
     }
     .izq{
         margin-left: 0px;
+    }
+
+    .navbar2elements{
+        padding-top: 10px;
+    
+    }
+    #botonservicio{
+        text-align: left;
+        margin-left: -17px;
+    }
+
+    #marco{
+        padding-bottom: 10px;
+    }
+    .segundo2{
+        margin-top: -40px;
+    }
+
+  
+    .linea2{
+
+    }
+    .linea3{
+
+    }
+    .linea4{
+
+    }
+    .damn{
+
     }
     
 }
@@ -653,6 +679,7 @@ padding-bottom: -10px;
         margin-left: 0px;
     }
 }
+
 
 @media (min-width:1200px) {
 
@@ -978,9 +1005,7 @@ padding-bottom: -10px;
     margin-left: 40px;
     margin-top: 1px;
 }
-#contenedorlogo2{
 
-}
 #logo2{
     padding-left: 0px;
     padding-right: 0px;
@@ -994,7 +1019,70 @@ padding-bottom: -10px;
     border: 1px solid #5b2333;
     margin-bottom: -10px;
 }
+#logo3{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 14px;
+    width: 144px;
+    height: 132.38px;
+    background: #fcffeb;
+  margin-top: -82px;
+    /*margin-left: 50%;*/
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 1px solid #5b2333;
+    margin-bottom: -10px;
+}
 #servicios{
     color: #ED6A5A;
     
+}
+
+#botonservicio{
+    border: none;
+    text-align: center;
+    font-size: 38px;
+    background: #fcffeb;
+    width: 120px;
+
+
+}
+.hamburgermenu{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.lineaservicios{
+    width: 100px;
+  margin-left: 20%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+#belleza{
+padding-bottom: 0px;
+}
+#peluqueria{
+padding-bottom: 0px;
+}
+.navbar2elements span a{
+    color: #ED6A5A;
+}
+
+@media (min-width: 768px) and (max-width:942px) {
+    .damn{
+        margin-left: 50%;
+    }
+    .locales{
+
+    }
+    .contacto{
+
+    }
+}
+@media (max-width: 768px){
+    .contenedorgris{
+    margin-left:29px; 
+    }
+    .contenedorgris2{
+        margin-left:29px; 
+        }
 }
