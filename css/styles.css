@@ -1000,13 +1000,15 @@ body {
     margin-left: 20px;
 
 }
-.v7{
+
+.v7 {
     border-left: 1px solid #c9c0c1;
     height: 2000px;
     margin-top: 65px;
     margin-left: 45px;
 }
-.v8{
+
+.v8 {
     border-left: 1px solid #c9c0c1;
     width: 1px;
     background-color: #c9c0c1;
@@ -1255,6 +1257,7 @@ body {
     margin-left: 25px;
     margin-top: 20px;
 }
+
 #nombre2 {
     font-size: 38pt;
     color: #5B2333;
@@ -1290,6 +1293,7 @@ body {
     margin-top: 20px;
     margin-bottom: 45px;
 }
+
 #nombre3 {
     font-size: 38pt;
     color: #5B2333;
@@ -1308,4 +1312,19 @@ body {
     color: #000000;
 
 }
-
+#tintura{
+    font-size: 45pt;
+    color: #5B2333;
+}
+.precio{
+    font-size: 22pt;
+    color: #2A252D;
+}
+#corte{
+    font-size: 45pt;
+    color: #5B2333;
+}
+#peinado{
+    font-size: 45pt;
+    color: #5B2333;
+}
