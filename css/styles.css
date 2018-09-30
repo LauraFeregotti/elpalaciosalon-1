@@ -1,6 +1,5 @@
 /*Primera página */
 .navbar {
-    /*position: relative;*/
     background: #2a252d;
     margin-top: 8px;
     display: block;
@@ -9,18 +8,15 @@
 }
 
 .line3 {
-
     color: #C9C0C1;
     margin-left: 10%;
     width: 80%;
-
 }
 
 .damn a {
     color: #d3e9f3;
     font-family: 'beauty';
     font-size: 32px;
-
 }
 
 .damn2 a {
@@ -41,8 +37,6 @@ body {
 
 #contenedorlogo {
     background: #fcffeb;
-    /* position: absolute; */
-
 }
 
 #logo {
@@ -53,26 +47,18 @@ body {
     height: 160px;
     background: #fcffeb;
     margin-top: -156px;
-    /*margin-left: 50%;*/
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     border: 1px solid #5b2333;
 }
 
 #marco {
-
     border: 1.4px solid #d3e9f3;
-    /*position: relative;*/
-    /*padding: 15px;*/
     padding-top: 10px;
     margin-top: -9px;
-    /*width: 999px;*/
     font-family: "tall";
     font-size: 38px;
-    /*height: 69px;*/
     color: #ED6A5A;
     padding-bottom: -10px;
-
-
 }
 
 .downarrow {
@@ -88,7 +74,6 @@ body {
     background: #FCFFEB;
     height: 7px;
     margin-top: -44px;
-
 }
 
 .segundo2 {
@@ -100,11 +85,8 @@ body {
     font-size: 20pt;
     font-weight: bold;
     background: #FCFFEB;
-
     border-radius: 0px;
-
     box-shadow: 0px 1px 29px -3px rgba(0, 0, 0, 0.36);
-
 }
 
 .line4 {
@@ -112,22 +94,18 @@ body {
     margin-left: 15%;
     margin-top: -20px;
     margin-bottom: -15px;
-
 }
 
 .rayas {
     background: #2A252D;
     border: none;
-
     color: #d3e9f3;
     font-family: 'beauty';
     width: 300px;
-
 }
 
 .mas {
     padding: 10px;
-
 }
 
 .icon-bar {
@@ -136,13 +114,10 @@ body {
 
 #izquierda {
     padding-left: 80px;
-
-
 }
 
 #derecha {
     padding-right: 80px;
-
 }
 
 @font-face {
@@ -153,12 +128,10 @@ body {
 @font-face {
     font-family: 'beauty';
     src: url("../fonts/BeautyDemo.ttf");
-
 }
 
 #tercero {
     background-color: #d3e9f3;
-    /*position: relative;*/
     margin-top: 28px;
     width: 900px;
     height: 496px;
@@ -167,26 +140,18 @@ body {
 #subtercero {
     border: 1pt solid #fcffeb;
     background-color: #d3e9f3;
-    /*position: relative;*/
     margin-top: 10px;
-
     margin-left: -5px;
     width: 880px;
     height: 470px;
-
-
 }
 
 #subsubtercero {
-
     background-color: #fcffeb;
-    /*position: relative;*/
     margin-top: 60px;
-
     margin-left: 25px;
     width: 795px;
     height: 391px;
-
 }
 
 #myCarousel {
@@ -203,25 +168,18 @@ body {
 
 #franja {
     margin-top: 25px;
-
     color: #fcffeb;
     background-color: #ed6a5a;
-    /*position: absolute;*/
-
-
     font-family: 'beauty';
     font-size: 45px;
     padding-top: 3px;
     height: 44px;
-
 }
 
 .primero {
     background-color: #d3e9f3;
     margin-top: 18px;
     box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #fcffeb;
-
-
 }
 
 .segundo {
@@ -230,7 +188,6 @@ body {
     padding: 0px;
     margin-top: 10px;
 }
-
 
 .tendencias {
     background-color: #ed6a5a;
@@ -241,29 +198,22 @@ body {
     padding-bottom: 35px;
     font-family: 'beauty';
     color: #fcffeb;
-
-
 }
 
 .clasificados {
     background-color: #d3e9f3;
     margin-top: 10px;
     box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #fcffeb;
-
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'beauty';
     color: #5b2333;
     padding-left: 70px;
     padding-right: 70px;
-
-
-
 }
 
 .clasificados>h1 {
     text-align: center;
-
 }
 
 .profesionales h2 {
@@ -279,14 +229,12 @@ body {
     padding-left: 17px;
     padding-right: 17px;
     font-weight: bold;
-
 }
 
 .tendenciasfoto {
     width: 199, 649px;
     height: 152.853px;
     margin-top: 5px;
-
 }
 
 .horizontal {
@@ -301,7 +249,6 @@ body {
     height: 3px;
     margin: auto;
     margin-top: -25px;
-
 }
 
 .subrayado2 {
@@ -310,8 +257,6 @@ body {
     margin: auto;
     margin-top: -28px;
     background-color: #5b2333;
-
-
 }
 
 .subrayado3 {
@@ -326,13 +271,11 @@ body {
     margin-top: 20px;
     box-shadow: inset 0 0 0 15px #ed6a5a, inset 0 0 0 16px #fcffeb;
     text-align: center;
-
     padding-bottom: 40px;
     font-family: 'beauty';
     color: #fcffeb;
     padding-top: 10px;
     height: 268, 592px;
-
 }
 
 .segundaseccion {
@@ -341,7 +284,6 @@ body {
 
 .profesionales {
     font-family: 'tall';
-
 }
 
 .primeralinea hr {
@@ -366,7 +308,6 @@ body {
     margin-top: 30px;
     margin-bottom: 10px;
     align-items: center;
-
 }
 
 .pie {
@@ -380,8 +321,6 @@ body {
     font-family: 'beauty';
     color: #fcffeb;
     font-size: 35pt;
-
-
 }
 
 .izq h6 {
@@ -395,7 +334,6 @@ body {
     font-family: 'tall';
     color: #fcffeb;
     font-size: 19pt;
-
 }
 
 .dere h5 {
@@ -415,7 +353,6 @@ body {
     font-family: 'tall';
     color: #fcffeb;
     font-size: 19pt;
-
 }
 
 .copy {
@@ -430,11 +367,6 @@ body {
 
 .izq {
     padding: 0px;
-}
-
-.dere {
-    /*padding: 0px;*/
-    /*margin-left: -1%*/
 }
 
 .izq h6 {
@@ -463,7 +395,6 @@ body {
 
 .logofooter {
     margin-top: 133px;
-
 }
 
 @media (max-width: 782px) {
@@ -491,7 +422,6 @@ body {
         margin-top: 5px;
         background-color: #d3e9f3;
         width: 220px;
-
     }
 
     .linea3 {
@@ -507,12 +437,6 @@ body {
         width: 220px;
     }
 
-    #logo {
-
-        /* margin-top: -156px;*/
-
-    }
-
     .segundo2 {
         text-align: left;
         padding-top: 20px;
@@ -524,10 +448,6 @@ body {
         background: #FCFFEB;
         margin-left: 10px;
         height: 130px;
-
-
-
-
     }
 
     .segundo2 :first-child {
@@ -544,8 +464,6 @@ body {
 
     .contacto {
         width: 100px;
-
-
     }
 
     .menuderecha {
@@ -575,10 +493,8 @@ body {
     #logo2 {
         width: 144px;
         height: 132.38px;
-        /*margin-left: 25%;*/
         translate: (10px, 100px);
     }
-
 
     .contenedorgris {
         margin-right: 100px;
@@ -592,7 +508,6 @@ body {
         padding-left: -100px;
     }
 
-
     .dere {
         margin-left: 0px;
     }
@@ -603,7 +518,6 @@ body {
 
     .navbar2elements {
         padding-top: 10px;
-
     }
 
     #botonservicio {
@@ -619,24 +533,10 @@ body {
         margin-top: -40px;
     }
 
-
-    .linea2 {}
-
-    .linea3 {}
-
-    .linea4 {}
-
-    .damn {}
-
     .locales {
         position: absolute;
 
     }
-
-    .contacto {}
-
-    .mas {}
-
 }
 
 @media (min-width:768px) and (max-width: 992px) {
@@ -644,7 +544,6 @@ body {
     #logo2 {
         width: 158px;
         height: 145.25px;
-        /*margin-left: 40%;*/
 
     }
 
@@ -655,16 +554,6 @@ body {
 
     .contenedorgris {
         margin-left: -100px;
-    }
-
-
-
-    #izquierda {
-        /*margin-left: -85px;*/
-    }
-
-    #derecha {
-        /*margin-right: -85px;*/
     }
 
     .contenedordeproductos1 {
@@ -678,7 +567,6 @@ body {
     .contenedordeproductos3 {
         margin-right: 30px;
     }
-
 }
 
 @media (min-width:766px)and (max-width:782px) {
@@ -686,7 +574,6 @@ body {
         margin-left: 0px;
     }
 }
-
 
 @media (min-width:1200px) {
 
@@ -716,20 +603,14 @@ body {
         padding-top: 11px;
         margin-left: 88px;
         padding-right: 22px;
-
     }
-
-
-
 }
 
 @media (max-width: 988px) {
     .dere {
         margin-left: 88px;
         padding-top: 33px;
-
     }
-
 }
 
 @media (max-width: 1366px) {
@@ -738,36 +619,29 @@ body {
     v2,
     v3,
     v4 {
-
         visibility: hidden;
     }
-
 }
 
 
 .menuderecha li a {
-
     font-family: 'tall';
     color: #d3e9f3;
     align-self: auto;
     padding-top: 2px;
     padding-bottom: 2px;
     font-size: 20pt;
-
 }
 
 .menuderecha {
     background-color: #2a252d;
-
 }
 
 .botoncito {
     background-color: #2a252d;
-
     margin-top: 11px;
     margin-left: px;
 }
-
 
 .damn>li>a:hover {
     background-color: #433B49;
@@ -781,23 +655,15 @@ body {
 .nav .open>a:focus,
 .nav .open>a:hover {
     background-color: #433B49;
-
 }
 
 .nav .open>a,
 .nav .open>a:focus,
 .nav .open>a:active {
     background-color: #433B49;
-
 }
 
-
-
-
-
-
 /*  Segunda página */
-
 .filtro {
     background-color: #ed6a5a;
     color: #fcffeb;
@@ -808,16 +674,12 @@ body {
     padding-left: 20px;
     padding-top: -100px;
     height: 60px;
-
-
 }
 
 .btn {
     padding-top: 0px;
     border-radius: 0px;
     width: 70%;
-
-
 }
 
 .buscar {
@@ -827,10 +689,8 @@ body {
     font-size: 20pt;
     margin-top: 44px;
     margin-right: 20px;
-
     padding-top: px;
     height: 46px;
-
 }
 
 .buscar h3 {
@@ -868,17 +728,12 @@ body {
     background: #C9C0C1;
     margin-left: 65.25px;
     margin-bottom: 10px;
-
-
-
 }
 
 .contenedorgris2 {
     background: #C9C0C1;
     margin-left: 30px;
     margin-bottom: 10px;
-
-
 }
 
 .prod {
@@ -899,7 +754,6 @@ body {
 
 .precio {
     color: #ED6A5A;
-
 }
 
 .flecha {
@@ -921,7 +775,6 @@ body {
     border-radius: 0px;
     margin-top: 0px;
     box-shadow: 0px 1px 29px -3px rgba(0, 0, 0, 0.36);
-
 }
 
 .segundo li a {
@@ -929,7 +782,6 @@ body {
 }
 
 .line {
-
     width: 150px;
     margin-top: -20px;
     margin-bottom: -20px;
@@ -957,7 +809,6 @@ body {
     height: 433px;
     margin-top: 65px;
     margin-left: 45px;
-
 }
 
 .v2 {
@@ -965,7 +816,6 @@ body {
     height: 433px;
     margin-top: 65px;
     margin-left: 20px;
-
 }
 
 .v3 {
@@ -987,7 +837,6 @@ body {
     height: 1350px;
     margin-top: 65px;
     margin-left: 45px;
-
 }
 
 .v6 {
@@ -998,7 +847,6 @@ body {
     padding: 0px;
     margin-top: 65px;
     margin-left: 20px;
-
 }
 
 .v7 {
@@ -1038,7 +886,6 @@ body {
     height: 160px;
     background: #fcffeb;
     margin-top: -82px;
-    /*margin-left: 50%;*/
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     border: 1px solid #5b2333;
     margin-bottom: -10px;
@@ -1052,7 +899,6 @@ body {
     height: 132.38px;
     background: #fcffeb;
     margin-top: -82px;
-    /*margin-left: 50%;*/
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     border: 1px solid #5b2333;
     margin-bottom: -10px;
@@ -1060,7 +906,6 @@ body {
 
 #servicios {
     color: #ED6A5A;
-
 }
 
 #botonservicio {
@@ -1069,8 +914,6 @@ body {
     font-size: 38px;
     background: #fcffeb;
     width: 120px;
-
-
 }
 
 .hamburgermenu {
@@ -1083,7 +926,6 @@ body {
     margin-left: 20%;
     padding-top: 5px;
     padding-bottom: 5px;
-
 }
 
 #belleza {
@@ -1102,10 +944,6 @@ body {
     .damn {
         margin-left: 50%;
     }
-
-    .locales {}
-
-    .contacto {}
 }
 
 @media (max-width: 768px) {
@@ -1125,16 +963,11 @@ body {
     font-family: 'beauty';
     color: #5B2333;
     font-size: 50pt;
-  /*  padding-left: 210px;*/
-
-
-
 }
 
 .peluqueriarow {
     margin-top: 50px;
     text-align: center;
-
 }
 
 .contenedortabs {
@@ -1166,7 +999,6 @@ body {
     font-family: 'tall';
     font-size: 25pt;
     padding-left: 40%;
-
 }
 
 #stafftab {
@@ -1175,7 +1007,6 @@ body {
     font-family: 'tall';
     font-size: 25pt;
     padding-left: 40%;
-
 }
 
 .pagina3 {
@@ -1187,7 +1018,6 @@ body {
     font-family: 'tall';
     font-size: 22pt;
     padding-bottom: 60px;
-
 }
 
 .numeracion {
@@ -1205,17 +1035,13 @@ body {
     width: 308.395px;
     height: 473.875px;
     margin-top: 10px;
-
     margin-bottom: 10px;
 }
 
 .rebordegris {
     background-color: #C9C0C1;
-
-    padding-left: 8.7px;
+    padding: 8.7px;
     margin-left: 25px;
-
-
 }
 
 .descripcionpers1 {
@@ -1223,14 +1049,11 @@ body {
     color: #5B2333;
     margin-left: 70px;
     margin-top: 80px;
-
-
 }
 
 #nombre {
     font-size: 38pt;
     color: #5B2333;
-
 }
 
 .descripcionpers1 p {
@@ -1244,7 +1067,6 @@ body {
 
 #instagram {
     color: #000000;
-
 }
 
 #personal2 {
@@ -1264,7 +1086,6 @@ body {
 #nombre2 {
     font-size: 38pt;
     color: #5B2333;
-
 }
 
 .descripcionpers1 p {
@@ -1278,10 +1099,7 @@ body {
 
 #instagram2 {
     color: #000000;
-
 }
-
-
 
 #personal3 {
     width: 308.395px;
@@ -1301,7 +1119,6 @@ body {
 #nombre3 {
     font-size: 38pt;
     color: #5B2333;
-
 }
 
 .descripcionpers1 p {
@@ -1315,13 +1132,11 @@ body {
 
 #instagram3 {
     color: #000000;
-
 }
 
 #tintura {
     font-size: 45pt;
     color: #5B2333;
-
 }
 
 .precio2 {
@@ -1333,18 +1148,15 @@ body {
 #corte {
     font-size: 45pt;
     color: #5B2333;
-
 }
 
 #peinado {
     font-size: 45pt;
     color: #5B2333;
-
 }
 
 .servicios {
     color: #fcffeb;
-
 }
 
 .staff {
@@ -1365,8 +1177,6 @@ body {
     margin-top: 80px;
     padding-left: 130px;
     padding-top: 80px;
-
-
 }
 
 @media (max-width: 980px) {
@@ -1389,51 +1199,44 @@ body {
         padding-left: 80px;
     }
 
-    #peluqueriatitulo {
-        /*padding-left: 80px;*/
-    }
-
     #serviciotab {
-    
         padding-left: 20%;
+    }
+}
 
+@media (max-width: 320px) {
+
+    .rebordegris {
+        margin-left: 12%;
     }
 
+    .rebordegris2 {
+        padding-left: 10px;
+        margin-left: 12%;
+    }
 
-}
+    .rebordegris3 {
+        padding-left: 10px;
+        margin-left: 12%;
+    }
 
-@media (max-width: 320px){
+    #personal1 {
+        width: 218.659px;
+        height: 335.988px;
+    }
 
-.rebordegris{
-    padding-left: 10px;
-    margin-left: 12%;
-}
-.rebordegris2{
-    padding-left: 10px;
-    margin-left: 12%;
-}
-.rebordegris3{
-    padding-left: 10px;
-    margin-left: 12%;
-}
-#personal1{
-    width: 218.659px;
-    height: 335.988px;
+    #personal2 {
+        width: 218.659px;
+        height: 335.988px;
+    }
 
-}
-#personal2{
-    width: 218.659px;
-    height: 335.988px;
+    #personal3 {
+        width: 218.659px;
+        height: 335.988px;
+    }
 
-}
-#personal3{
-    width: 218.659px;
-    height: 335.988px;
-
-}
-.descripcionservicios{
-    margin-left: 0px;
-    margin-top: -11px;
-}
-
+    .descripcionservicios {
+        margin-left: 0px;
+        margin-top: -11px;
+    }
 }
