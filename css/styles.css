@@ -924,8 +924,7 @@ body {
 .lineaservicios {
     width: 100px;
     margin-left: 20%;
-    padding-top: 5px;
-    padding-bottom: 5px;
+   
 }
 
 #belleza {
@@ -1034,8 +1033,7 @@ body {
 #personal1 {
     width: 308.395px;
     height: 473.875px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+   
 }
 
 .rebordegris {
@@ -1206,9 +1204,7 @@ body {
 
 @media (max-width: 320px) {
 
-    .rebordegris {
-        margin-left: 12%;
-    }
+   
 
     .rebordegris2 {
         padding-left: 10px;
@@ -1237,6 +1233,41 @@ body {
 
     .descripcionservicios {
         margin-left: 0px;
-        margin-top: -11px;
+      
     }
+    .rebordegris{
+        margin-left:33px;
+   }
+   .descripcionpers1{
+    margin-left: 33px;
+    
+   }
+  
+}
+@media (max-width: 766px) and (min-width:338px) {
+     .descripcionpers1{
+        margin-left: 77px;
+    }
+    .rebordegris{
+        margin-left:77px;
+   }
+
+
+}
+
+@media (max-width: 766px){
+    
+    .descripcionpers1{
+         margin-top:4px; 
+    }
+    .descripcionservicios{
+         margin-top:-48px;
+         
+    }
+}
+
+.lineaservicios hr{
+margin-top: 6px;
+margin-bottom: 6px;
+
 }
