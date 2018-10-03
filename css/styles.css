@@ -1271,3 +1271,12 @@ margin-top: 6px;
 margin-bottom: 6px;
 
 }
+.v9{
+    border-left: 1px solid #c9c0c1;
+    width: 1px;
+    background-color: #c9c0c1;
+    height: 390px;
+    padding: 0px;
+    margin-top: 65px;
+    margin-left: 20px;
+}
